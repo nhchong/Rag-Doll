@@ -1,0 +1,12 @@
+The additional feature that I chose to implement was multiple ragdolls. The two different designs I chose to implement was a dog and a tree. 
+
+Dog:
+* The Torso can me translated and scaled which will scale everything else
+* THe Dog's upper legs can be rotated 90 degrees
+* The Dog's lower legs can be rotated 45 degrees
+* THe Dog's tail can be rotated 360 degrees
+
+Tree: 
+* The trunk of tree can be translated and scales which will scale everything else
+* The branches can be rotated 90 degrees.
+* The leaves can be translated

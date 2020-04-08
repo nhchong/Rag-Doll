@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ragdoll</string>
+    <string name="title_activity_popup">Popup</string>
+    <string name="title_activity_pop_up">popUp</string>
+</resources>
